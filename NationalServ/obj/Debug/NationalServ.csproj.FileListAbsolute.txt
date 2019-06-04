@@ -1,0 +1,13 @@
+C:\Users\theo\source\repos\NationalServ\NationalServ\bin\Debug\NationalServ.exe.config
+C:\Users\theo\source\repos\NationalServ\NationalServ\bin\Debug\NationalServ.exe
+C:\Users\theo\source\repos\NationalServ\NationalServ\bin\Debug\NationalServ.pdb
+C:\Users\theo\source\repos\NationalServ\NationalServ\obj\Debug\NationalServ.csproj.CoreCompileInputs.cache
+C:\Users\theo\source\repos\NationalServ\NationalServ\obj\Debug\NationalServ.exe
+C:\Users\theo\source\repos\NationalServ\NationalServ\obj\Debug\NationalServ.pdb
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\obj\Debug\NationalServ.csprojAssemblyReference.cache
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\obj\Debug\NationalServ.csproj.CoreCompileInputs.cache
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\obj\Debug\NationalServ.exe
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\obj\Debug\NationalServ.pdb
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\bin\Debug\NationalServ.exe.config
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\bin\Debug\NationalServ.exe
+C:\Users\theo\Desktop\Rattrapage.NET\NationalServ\NationalServ\bin\Debug\NationalServ.pdb
