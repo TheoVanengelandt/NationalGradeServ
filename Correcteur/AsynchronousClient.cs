@@ -194,8 +194,6 @@ namespace Correcteur
 		{
 			try
 			{
-				List<string> ListNotes = new List<string>();
-
 				// Open the text file using a stream reader.
 				using (StreamReader sr = new StreamReader("C:/Users/theo/Desktop/Rattrapage.NET/notes.csv"))
 				{
